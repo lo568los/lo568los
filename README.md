@@ -1,4 +1,4 @@
-#demo
+# demo
 - 👋 Hi, I’m @lo568los
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning stuff
@@ -10,5 +10,8 @@ lo568los/lo568los is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-##changes
+## changes
 let's gooo
+# Some very initial changes in feature branch
+1. Added html file index
+2. Created a feature branch
